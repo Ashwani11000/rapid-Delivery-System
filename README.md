@@ -1,5 +1,5 @@
 # rapid-Delivery-System
-This is a courier management systen names 'rDS' made using php and mySQL.
+This is a courier management system ( 'rDS' ) made using php and mySQL.
 
 
 To run this project you will need:
